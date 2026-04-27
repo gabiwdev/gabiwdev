@@ -1,14 +1,18 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey"/>
-</p>
+
 
 ```yaml
-nome: Gabriel
-localização: Canoas, Rio Grande do Sul
+name: Gabriel
+location: Canoas, Rio Grande do Sul
 
-educação: [
-  Estudante de Análise e Desenvolvimento de Sistemas (1º Semestre),
-  Estudante de programação de forma autonoma em linguagens python, javascript e java
+education: [
+  Ongoing Associate Degree in Software Analysis and Development (1º Semester),
+  Self-taught programming student in Python, JavaScript, and Java.
+  ],
+
+areasOfInterest: [
+  Data Science,
+  DevOps,
+  MachineLearning
   ]
 ```
