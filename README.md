@@ -35,5 +35,6 @@ areasOfInterest: [
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display:inline-block"/>
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="display:inline-block"/>
 </p>
-
-|  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display:inline-block"/> | <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="display:inline-block"/> |
+| | | |
+| - | - | - | 
+| <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display:inline-block"/> |  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="display:inline-block"/> | <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display:inline-block"/> |
