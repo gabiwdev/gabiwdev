@@ -36,6 +36,4 @@ areasOfInterest: [
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="display:inline-block"/>
 </p>
 
-| Header 1 | Header 2 |
-| :--- | :---: |
-| Left aligned | Centered |
+|  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display:inline-block"/> | <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="display:inline-block"/> |
