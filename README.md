@@ -22,5 +22,15 @@ areasOfInterest: [
 ```
 
 ## Some tools I have used and learned
-
-![css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg) ![flask](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg) ![git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) ![github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg) ![html](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) ![intellij](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg) ![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) ![js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![pycharm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45">
+</p>
