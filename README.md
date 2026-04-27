@@ -4,5 +4,11 @@
 </p>
 
 ```yaml
-Nome: Gabriel
+nome: Gabriel
+localização: Canoas, Rio Grande do Sul
+
+educação: [
+  Estudante de Análise e Desenvolvimento de Sistemas (1º Semestre),
+  Estudante de programação de forma autonoma em linguagens python, javascript e java
+  ]
 ```
