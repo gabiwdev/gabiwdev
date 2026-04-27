@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/gabriel-wouters-7a9599306/">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://www.freepik.com/icon/linkedin_794388)"/>
+  <img height="50" src="https://www.freepik.com/icon/linkedin_725337#fromView=image_search_similar&page=1&position=0&uuid=6613373e-2c15-4e43-a32e-3b03ed22ed39"/>
 </a>
 
 ## About me and my interests
